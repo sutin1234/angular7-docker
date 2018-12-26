@@ -3,7 +3,7 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.0-rc.0.
 
 ## Development server
-git remote add origin https://github.com/sutin1234/angular7-docker.git
+git clone https://github.com/sutin1234/angular7-docker.git
 
 ## docker compose 
 docker-compose up
