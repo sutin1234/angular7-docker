@@ -7,4 +7,8 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'angular7-docker';
+
+  constructor() {
+    console.log('angular7 docker-compose');
+  }
 }
